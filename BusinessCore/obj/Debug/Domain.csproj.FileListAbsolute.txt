@@ -1,0 +1,5 @@
+c:\users\roger_000\documents\visual studio 2013\Projects\SurveyIt\BusinessCore\bin\Debug\BusinessCore.dll
+c:\users\roger_000\documents\visual studio 2013\Projects\SurveyIt\BusinessCore\bin\Debug\BusinessCore.pdb
+c:\users\roger_000\documents\visual studio 2013\Projects\SurveyIt\BusinessCore\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+c:\users\roger_000\documents\visual studio 2013\Projects\SurveyIt\BusinessCore\obj\Debug\BusinessCore.dll
+c:\users\roger_000\documents\visual studio 2013\Projects\SurveyIt\BusinessCore\obj\Debug\BusinessCore.pdb

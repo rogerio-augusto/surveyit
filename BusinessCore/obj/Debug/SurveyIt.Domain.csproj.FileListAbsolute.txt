@@ -1,0 +1,5 @@
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\BusinessCore\obj\Debug\SurveyIt.Domain.csprojResolveAssemblyReference.cache
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\BusinessCore\bin\Debug\SurveyIt.Domain.dll
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\BusinessCore\bin\Debug\SurveyIt.Domain.pdb
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\BusinessCore\obj\Debug\SurveyIt.Domain.dll
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\BusinessCore\obj\Debug\SurveyIt.Domain.pdb

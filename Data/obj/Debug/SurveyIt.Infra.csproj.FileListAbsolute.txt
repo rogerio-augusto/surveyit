@@ -1,0 +1,12 @@
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\Data\obj\Debug\SurveyIt.Infra.csprojResolveAssemblyReference.cache
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\Data\bin\Debug\EntityFramework.dll
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\Data\bin\Debug\EntityFramework.xml
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\Data\bin\Debug\SurveyIt.Infra.dll.config
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\Data\bin\Debug\SurveyIt.Infra.dll
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\Data\bin\Debug\SurveyIt.Infra.pdb
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\Data\bin\Debug\SurveyIt.Domain.dll
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\Data\bin\Debug\SurveyIt.Domain.pdb
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\Data\obj\Debug\SurveyIt.Infra.dll
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\Data\obj\Debug\SurveyIt.Infra.pdb
