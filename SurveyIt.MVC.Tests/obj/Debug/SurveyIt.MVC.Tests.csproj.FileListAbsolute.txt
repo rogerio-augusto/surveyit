@@ -29,3 +29,9 @@ C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC.T
 C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC.Tests\obj\Debug\SurveyIt.MVC.Tests.csprojResolveAssemblyReference.cache
 C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC.Tests\obj\Debug\SurveyIt.MVC.Tests.dll
 C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC.Tests\obj\Debug\SurveyIt.MVC.Tests.pdb
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC.Tests\bin\Debug\AutoMapper.Net4.dll
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC.Tests\bin\Debug\AutoMapper.dll
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC.Tests\bin\Debug\SurveyIt.Domain.dll
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC.Tests\bin\Debug\AutoMapper.pdb
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC.Tests\bin\Debug\AutoMapper.xml
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC.Tests\bin\Debug\SurveyIt.Domain.pdb

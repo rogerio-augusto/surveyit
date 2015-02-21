@@ -30,3 +30,10 @@ C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC\b
 C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC\obj\Debug\SurveyIt.MVC.csprojResolveAssemblyReference.cache
 C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC\obj\Debug\SurveyIt.MVC.dll
 C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC\obj\Debug\SurveyIt.MVC.pdb
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC\bin\AutoMapper.Net4.dll
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC\bin\AutoMapper.dll
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC\bin\SurveyIt.Domain.dll
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC\bin\SurveyIt.Domain.pdb
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC\bin\AutoMapper.pdb
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC\bin\AutoMapper.xml
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC\bin\AutoMapper.Net4.pdb
