@@ -1,10 +1,6 @@
 ﻿using AutoMapper;
 using SurveyIt.Domain.Entities;
 using SurveyIt.MVC.ViewModels;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 
 namespace SurveyIt.MVC.AutoMapper
 {

@@ -35,3 +35,15 @@ C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC.T
 C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC.Tests\bin\Debug\AutoMapper.pdb
 C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC.Tests\bin\Debug\AutoMapper.xml
 C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC.Tests\bin\Debug\SurveyIt.Domain.pdb
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC.Tests\bin\Debug\StructureMap.dll
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC.Tests\bin\Debug\WebActivatorEx.dll
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC.Tests\bin\Debug\StructureMap.Net4.dll
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC.Tests\bin\Debug\StructureMap.Web.dll
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC.Tests\bin\Debug\StructureMap.pdb
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC.Tests\bin\Debug\StructureMap.xml
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC.Tests\bin\Debug\StructureMap.Net4.pdb
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC.Tests\bin\Debug\StructureMap.Web.pdb
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC.Tests\bin\Debug\StructureMap.Web.xml

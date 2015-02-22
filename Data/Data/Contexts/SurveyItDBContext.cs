@@ -1,5 +1,6 @@
 ﻿using SurveyIt.Domain.Entities;
 using SurveyIt.Infra.Data.EntityConfiguration;
+using System;
 using System.Data.Entity;
 using System.Data.Entity.ModelConfiguration.Conventions;
 
@@ -22,6 +23,7 @@ namespace SurveyIt.Infra.Data.Contexts
             modelBuilder.Conventions.Remove<ManyToManyCascadeDeleteConvention>();
             
             modelBuilder.Properties<string>().Configure(p => p.HasColumnType("varchar"));
+            modelBuilder.Properties<DateTime>().Configure(p => p.HasColumnType("datetime2"));
             modelBuilder.Properties<string>().Configure(p => p.HasMaxLength(100));
 
             modelBuilder.Configurations.Add(new HotsiteSchema());
