@@ -1,5 +1,5 @@
-﻿using SurveyIt.Domain.Contracts;
-using SurveyIt.Domain.Contracts.Services;
+﻿using SurveyIt.Core.Contracts.Repositories;
+using SurveyIt.Core.Contracts.Services;
 using System;
 using System.Collections.Generic;
 

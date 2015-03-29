@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace SurveyIt.Domain.Contracts.Services
+namespace SurveyIt.Core.Contracts.Services
 {
     public interface IServiceBase<TEntity> where TEntity : class
     {

@@ -222,13 +222,13 @@
     <Content Include="Views\Hotsites\Edit.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BusinessCore\SurveyIt.Domain.csproj">
+    <ProjectReference Include="..\BusinessCore\SurveyIt.Core.csproj">
       <Project>{e0256d65-90a6-43aa-b4e8-cbe0ba8c8aa0}</Project>
-      <Name>SurveyIt.Domain</Name>
+      <Name>SurveyIt.Core</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Data\SurveyIt.Infra.csproj">
+    <ProjectReference Include="..\Data\SurveyIt.Data.csproj">
       <Project>{3bd6f8a9-ecb2-4673-8458-7a2f2fe662c1}</Project>
-      <Name>SurveyIt.Infra</Name>
+      <Name>SurveyIt.Data</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

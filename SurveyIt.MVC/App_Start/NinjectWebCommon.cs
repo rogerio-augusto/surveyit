@@ -3,17 +3,15 @@
 
 namespace SurveyIt.MVC.App_Start
 {
-    using System;
-    using System.Web;
-    using SurveyIt.Domain.Contracts.Services;
-    using SurveyIt.Domain.Services;
-
     using Microsoft.Web.Infrastructure.DynamicModuleHelper;
-
     using Ninject;
     using Ninject.Web.Common;
-    using SurveyIt.Domain.Contracts;
+    using SurveyIt.Core.Contracts.Repositories;
+    using SurveyIt.Core.Contracts.Services;
+    using SurveyIt.Domain.Services;
     using SurveyIt.Infra.Data.Repositories;
+    using System;
+    using System.Web;
 
     public static class NinjectWebCommon 
     {

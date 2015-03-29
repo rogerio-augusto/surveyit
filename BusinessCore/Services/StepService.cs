@@ -1,6 +1,6 @@
-﻿using SurveyIt.Domain.Contracts;
-using SurveyIt.Domain.Contracts.Services;
-using SurveyIt.Domain.Entities;
+﻿using SurveyIt.Core.Contracts.Repositories;
+using SurveyIt.Core.Contracts.Services;
+using SurveyIt.Core.DomainEntities;
 
 namespace SurveyIt.Domain.Services
 {

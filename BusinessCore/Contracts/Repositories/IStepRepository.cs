@@ -1,6 +1,6 @@
-﻿using SurveyIt.Domain.Entities;
+﻿using SurveyIt.Core.DomainEntities;
 
-namespace SurveyIt.Domain.Contracts
+namespace SurveyIt.Core.Contracts.Repositories
 {
     public interface IStepRepository : IRepositoryBase<Step>
     {

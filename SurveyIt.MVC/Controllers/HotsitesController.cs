@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
-using SurveyIt.Domain.Contracts.Services;
-using SurveyIt.Domain.Entities;
+using SurveyIt.Core.Contracts.Services;
+using SurveyIt.Core.DomainEntities;
 using SurveyIt.MVC.ViewModels;
 using System.Collections.Generic;
 using System.Web.Mvc;

@@ -1,0 +1,7 @@
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.Core.Tests\bin\Debug\SurveyIt.Core.Tests.dll
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.Core.Tests\bin\Debug\SurveyIt.Core.Tests.pdb
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.Core.Tests\bin\Debug\SurveyIt.Domain.dll
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.Core.Tests\bin\Debug\SurveyIt.Domain.pdb
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.Core.Tests\obj\Debug\SurveyIt.Core.Tests.csprojResolveAssemblyReference.cache
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.Core.Tests\obj\Debug\SurveyIt.Core.Tests.dll
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.Core.Tests\obj\Debug\SurveyIt.Core.Tests.pdb

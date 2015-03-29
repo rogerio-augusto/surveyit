@@ -1,11 +1,8 @@
-﻿using SurveyIt.Domain.Contracts;
-using SurveyIt.Domain.Contracts.Services;
-using SurveyIt.Domain.Entities;
+﻿using SurveyIt.Core.Contracts.Repositories;
+using SurveyIt.Core.Contracts.Services;
+using SurveyIt.Core.DomainEntities;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SurveyIt.Domain.Services
 {

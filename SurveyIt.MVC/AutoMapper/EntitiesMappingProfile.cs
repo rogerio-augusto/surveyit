@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using SurveyIt.Domain.Entities;
+using SurveyIt.Core.DomainEntities;
 using SurveyIt.MVC.ViewModels;
 
 namespace SurveyIt.MVC.AutoMapper

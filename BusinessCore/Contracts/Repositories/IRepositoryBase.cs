@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
-namespace SurveyIt.Domain.Contracts
+namespace SurveyIt.Core.Contracts.Repositories
 {
     public interface IRepositoryBase<TEntity> where TEntity : class
     {

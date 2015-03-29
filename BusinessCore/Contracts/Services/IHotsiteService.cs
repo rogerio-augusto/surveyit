@@ -1,11 +1,8 @@
-﻿using SurveyIt.Domain.Entities;
+﻿using SurveyIt.Core.DomainEntities;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace SurveyIt.Domain.Contracts.Services
+namespace SurveyIt.Core.Contracts.Services
 {
     public interface IHotsiteService : IServiceBase<Hotsite>
     {
