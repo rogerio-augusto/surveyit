@@ -63,6 +63,7 @@
     <Compile Include="Contexts\SurveyItTestDBContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\RepositoryBaseTest.cs" />
+    <Compile Include="Repositories\StepRepositoryTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BusinessCore\SurveyIt.Core.csproj">

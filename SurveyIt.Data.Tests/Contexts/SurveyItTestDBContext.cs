@@ -34,8 +34,14 @@ namespace SurveyIt.Data.Tests.Contexts
 
         public void Seed(SurveyItTestDBContext context)
         {
+            var hotsiteStepsA = new List<Step>() {
+                new Step() {Title = "Step one A", Visible = true},
+                new Step() {Title = "Step two A", Visible = true},
+                new Step() {Title = "Step three A", Visible = true}
+            };
+
             var hotsiteList = new List<Hotsite>() {
-             new Hotsite() { Id = 1, Name = "Hotsite Test 1" },
+             new Hotsite() { Id = 1, Name = "Hotsite Test 1", Steps = hotsiteStepsA },
              new Hotsite() { Id = 2, Name = "Hotsite Test 2" },
              new Hotsite() { Id = 3, Name = "Hotsite Test 3" }
             };

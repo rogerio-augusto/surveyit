@@ -1,4 +1,5 @@
 ﻿using SurveyIt.Core.DomainEntities;
+using SurveyIt.Data.EntityConfiguration;
 using SurveyIt.Infra.Data.EntityConfiguration;
 using System;
 using System.Data.Entity;
@@ -17,7 +18,12 @@ namespace SurveyIt.Infra.Data.Contexts
         {}
 
         public DbSet<Hotsite> Hotsites { get; set; }
+
         public DbSet<Step> Steps { get; set; }
+
+        public DbSet<Question> Questions { get; set; }
+
+        public DbSet<Alternative> Alternatives { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
@@ -30,6 +36,8 @@ namespace SurveyIt.Infra.Data.Contexts
 
             modelBuilder.Configurations.Add(new HotsiteSchema());
             modelBuilder.Configurations.Add(new StepSchema());
+            modelBuilder.Configurations.Add(new QuestionSchema());
+            modelBuilder.Configurations.Add(new AlternativeSchema());
 
             base.OnModelCreating(modelBuilder);  
         }

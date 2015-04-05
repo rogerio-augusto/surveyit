@@ -1,8 +1,9 @@
 ﻿using SurveyIt.Core.Contracts.Repositories;
 using SurveyIt.Core.Contracts.Services;
 using SurveyIt.Core.DomainEntities;
+using System.Collections.Generic;
 
-namespace SurveyIt.Domain.Services
+namespace SurveyIt.Core.Services
 {
     public class StepService : ServiceBase<Step>, IStepService
     {
@@ -12,6 +13,16 @@ namespace SurveyIt.Domain.Services
             : base(stepRepository)
         {
             this.stepRepository = stepRepository;
+        }
+
+        public IEnumerable<Step> FindByHotsiteId(int HotsiteId)
+        {
+            return stepRepository.FindByHotsiteId(HotsiteId);
+        }
+
+        public Step FindByHotsiteIdAndStepId(int HotsiteId, int StepId)
+        {
+            return stepRepository.FindByHotsiteIdAndStepId(HotsiteId, StepId);
         }
     }
 }

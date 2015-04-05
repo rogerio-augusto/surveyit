@@ -8,7 +8,8 @@ namespace SurveyIt.MVC.App_Start
     using Ninject.Web.Common;
     using SurveyIt.Core.Contracts.Repositories;
     using SurveyIt.Core.Contracts.Services;
-    using SurveyIt.Domain.Services;
+    using SurveyIt.Core.Services;
+    using SurveyIt.Data.Repositories;
     using SurveyIt.Infra.Data.Repositories;
     using System;
     using System.Web;
@@ -66,7 +67,9 @@ namespace SurveyIt.MVC.App_Start
             kernel.Bind(typeof(IServiceBase<>)).To(typeof(ServiceBase<>));
 
             kernel.Bind<IHotsiteService>().To<HotsiteService>();
+            kernel.Bind<IStepService>().To<StepService>();
             kernel.Bind<IHotsiteRepository>().To<HotsiteRepository>();
+            kernel.Bind<IStepRepository>().To<StepRepository>();
         }        
     }
 }

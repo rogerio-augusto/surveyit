@@ -3,7 +3,7 @@ using SurveyIt.Core.Contracts.Services;
 using System;
 using System.Collections.Generic;
 
-namespace SurveyIt.Domain.Services
+namespace SurveyIt.Core.Services
 {
     public class ServiceBase<TEntity> : IDisposable, IServiceBase<TEntity> where TEntity : class
     {

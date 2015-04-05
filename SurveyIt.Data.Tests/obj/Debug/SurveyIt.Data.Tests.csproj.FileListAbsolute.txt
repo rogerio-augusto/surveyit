@@ -6,9 +6,9 @@ C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.Data.
 C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.Data.Tests\bin\Debug\SurveyIt.Data.Tests.dll.config
 C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.Data.Tests\bin\Debug\EntityFramework.dll
 C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.Data.Tests\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.Data.Tests\bin\Debug\SurveyIt.Domain.dll
-C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.Data.Tests\bin\Debug\SurveyIt.Infra.dll
-C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.Data.Tests\bin\Debug\SurveyIt.Domain.pdb
-C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.Data.Tests\bin\Debug\SurveyIt.Infra.pdb
 C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.Data.Tests\bin\Debug\EntityFramework.xml
 C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.Data.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.Data.Tests\bin\Debug\SurveyIt.Core.dll
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.Data.Tests\bin\Debug\SurveyIt.Data.dll
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.Data.Tests\bin\Debug\SurveyIt.Core.pdb
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.Data.Tests\bin\Debug\SurveyIt.Data.pdb

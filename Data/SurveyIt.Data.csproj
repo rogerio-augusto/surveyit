@@ -7,8 +7,8 @@
     <ProjectGuid>{3BD6F8A9-ECB2-4673-8458-7A2F2FE662C1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SurveyIt.Infra</RootNamespace>
-    <AssemblyName>SurveyIt.Infra</AssemblyName>
+    <RootNamespace>SurveyIt.Data</RootNamespace>
+    <AssemblyName>SurveyIt.Data</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
@@ -48,12 +48,23 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Contexts\SurveyItDBContext.cs" />
+    <Compile Include="EntityConfiguration\AlternativeSchema.cs" />
     <Compile Include="EntityConfiguration\HotsiteSchema.cs" />
+    <Compile Include="EntityConfiguration\QuestionSchema.cs" />
     <Compile Include="EntityConfiguration\StepSchema.cs" />
+    <Compile Include="Migrations\201504031151185_create questions and alternatives.cs" />
+    <Compile Include="Migrations\201504031151185_create questions and alternatives.Designer.cs">
+      <DependentUpon>201504031151185_create questions and alternatives.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201504041923505_update_initial_has_many_relationships.cs" />
+    <Compile Include="Migrations\201504041923505_update_initial_has_many_relationships.Designer.cs">
+      <DependentUpon>201504041923505_update_initial_has_many_relationships.cs</DependentUpon>
+    </Compile>
     <Compile Include="Repositories\HotsiteRepository.cs" />
     <Compile Include="Repositories\RepositoryBase.cs" />
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\StepRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -65,7 +76,14 @@
       <Name>SurveyIt.Core</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201504031151185_create questions and alternatives.resx">
+      <DependentUpon>201504031151185_create questions and alternatives.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201504041923505_update_initial_has_many_relationships.resx">
+      <DependentUpon>201504041923505_update_initial_has_many_relationships.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

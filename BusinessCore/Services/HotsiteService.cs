@@ -4,7 +4,7 @@ using SurveyIt.Core.DomainEntities;
 using System;
 using System.Collections.Generic;
 
-namespace SurveyIt.Domain.Services
+namespace SurveyIt.Core.Services
 {
     public class HotsiteService : ServiceBase<Hotsite>, IHotsiteService
     {

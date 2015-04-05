@@ -154,7 +154,7 @@
     <Compile Include="AutoMapper\EntitiesMappingProfile.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\HotsitesController.cs" />
-    <Compile Include="Controllers\ValuesController.cs" />
+    <Compile Include="Controllers\StepsController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -164,7 +164,9 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <DependentUpon>Settings.settings</DependentUpon>
     </Compile>
+    <Compile Include="ViewModels\AlternativeViewModel.cs" />
     <Compile Include="ViewModels\HotsiteViewModel.cs" />
+    <Compile Include="ViewModels\QuestionViewModel.cs" />
     <Compile Include="ViewModels\StepViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -220,6 +222,8 @@
     <Content Include="Views\Hotsites\Index.cshtml" />
     <Content Include="Views\Hotsites\Create.cshtml" />
     <Content Include="Views\Hotsites\Edit.cshtml" />
+    <Content Include="Views\Steps\Index.cshtml" />
+    <Content Include="Views\Steps\Create.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BusinessCore\SurveyIt.Core.csproj">

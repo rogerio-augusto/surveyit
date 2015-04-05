@@ -9,5 +9,8 @@ namespace SurveyIt.Core.Contracts.Services
 {
     public interface IStepService : IServiceBase<Step>
     {
+        IEnumerable<Step> FindByHotsiteId(int HotsiteId);
+
+        Step FindByHotsiteIdAndStepId(int HotsiteId, int StepId);
     }
 }

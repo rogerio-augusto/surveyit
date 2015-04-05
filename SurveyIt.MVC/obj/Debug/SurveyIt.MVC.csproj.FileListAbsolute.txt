@@ -32,8 +32,6 @@ C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC\o
 C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC\obj\Debug\SurveyIt.MVC.pdb
 C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC\bin\AutoMapper.Net4.dll
 C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC\bin\AutoMapper.dll
-C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC\bin\SurveyIt.Domain.dll
-C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC\bin\SurveyIt.Domain.pdb
 C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC\bin\AutoMapper.pdb
 C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC\bin\AutoMapper.xml
 C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC\bin\AutoMapper.Net4.pdb
@@ -44,7 +42,9 @@ C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC\b
 C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC\bin\Ninject.xml
 C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC\bin\Ninject.Web.Common.xml
 C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC\bin\Ninject.Web.Mvc.xml
-C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC\bin\SurveyIt.Infra.dll
 C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC\bin\EntityFramework.dll
-C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC\bin\SurveyIt.Infra.pdb
 C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC\bin\EntityFramework.xml
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC\bin\SurveyIt.Core.dll
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC\bin\SurveyIt.Data.dll
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC\bin\SurveyIt.Core.pdb
+C:\Users\roger_000\documents\visual studio 2013\Projects\SurveyIt\SurveyIt.MVC\bin\SurveyIt.Data.pdb

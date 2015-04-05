@@ -7,8 +7,8 @@
     <ProjectGuid>{E0256D65-90A6-43AA-B4E8-CBE0BA8C8AA0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SurveyIt.Domain</RootNamespace>
-    <AssemblyName>SurveyIt.Domain</AssemblyName>
+    <RootNamespace>SurveyIt.Core</RootNamespace>
+    <AssemblyName>SurveyIt.Core</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
@@ -45,8 +45,10 @@
     <Compile Include="Contracts\Services\IHotsiteService.cs" />
     <Compile Include="Contracts\Services\IServiceBase.cs" />
     <Compile Include="Contracts\Services\IStepService.cs" />
+    <Compile Include="DomainEntities\Alternative.cs" />
     <Compile Include="DomainEntities\Hotsite.cs" />
     <Compile Include="Contracts\Repositories\IStepRepository.cs" />
+    <Compile Include="DomainEntities\Question.cs" />
     <Compile Include="DomainEntities\Step.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\HotsiteService.cs" />

@@ -1,4 +1,5 @@
 ﻿using SurveyIt.Core.DomainEntities;
+using System.Collections.Generic;
 using System.Data.Entity.ModelConfiguration;
 
 namespace SurveyIt.Infra.Data.EntityConfiguration
@@ -9,6 +10,10 @@ namespace SurveyIt.Infra.Data.EntityConfiguration
         {
             Property(h => h.Name).IsRequired();
             Property(h => h.Deadline).IsRequired();
+            
+            HasMany(h => h.Steps)
+                .WithRequired(s => s.Hotsite)
+                .WillCascadeOnDelete(true);
         }
     }
 }
